@@ -1,5 +1,5 @@
 # MySQL Task
 
-This repository has the screenshots of the queries executed for the following task    
+This repository has the DB deisgn model for Guvi Zen Class   
 
-Task Link : http://sqlbolt.com/
+
